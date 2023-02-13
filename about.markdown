@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![](/img/me.jpg)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Devrin Talen and I like to [code](https://github.com/devrintalen), solder, and hang out with my family.
 
+I live in an Emacs world; evil with a helping of org-mode. I like to write with LaTeX. I hack on a desktop that runs a very nicely configured Gentoo system.
 
-[jekyll-organization]: https://github.com/jekyll
+Feel free to get in touch with me over [email](mailto:dct23@cornell.edu). You can also get a copy of [my resume](/devrintalen.pdf).
