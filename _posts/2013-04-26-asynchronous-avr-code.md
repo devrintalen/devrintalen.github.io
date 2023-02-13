@@ -91,8 +91,7 @@ gets modified, but when there are interrupts occuring underneath
 sequential code then weird things can happen when they share any
 state. For example, consider this simple program:
 
-[^2]: And by state I mean variables, which remember are stored in
-memory. Any program is just instructions and memory.
+[^2]: And by state I mean variables, which remember are stored in memory. Any program is just instructions and memory.
 
 {% highlight c++ %}
    #include <avr/interrupt.h>
